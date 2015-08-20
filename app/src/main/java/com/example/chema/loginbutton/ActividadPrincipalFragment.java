@@ -23,7 +23,7 @@ import com.facebook.login.widget.LoginButton;
  * A placeholder fragment containing a simple view.
  */
 public class ActividadPrincipalFragment extends Fragment {
-
+    String x="hola";
     private TextView mTextDetails;
     private CallbackManager mCallBackManager;
 
